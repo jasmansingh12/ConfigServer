@@ -1,4 +1,4 @@
-package com.kunal.stockmarket.eurekaserver.config;
+package com.jasman.stockmarket.eurekaserver.config;
 
 
 import org.springframework.security.config.annotation.web.builders.HttpSecurity;
